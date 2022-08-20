@@ -2,6 +2,13 @@
 
 Discordサーバーらいあ市のメンバーが作ったものなどを集めたリンク集です。
 
+## ハンズオン　さめがめを作ろう
+
+2022/08/20のハンズオンでさめがめ（same game）を作りました。
+
+- [ゆぅさんの作品](https://mofumaru-yu.github.io/samegame/template.html)
+- [idomshiの作品](https://idomshi.github.io/samegame/)
+
 ## ハンズオン　15パズルを作ろう
 
 2022/07/16のハンズオンで15パズルを作りました。
