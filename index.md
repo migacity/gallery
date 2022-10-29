@@ -2,6 +2,13 @@
 
 Discordサーバーらいあ市のメンバーが作ったものなどを集めたリンク集です。
 
+## ハンズオン　ビンゴマシーンを作ろう
+
+2022/10/29のハンズオンでビンゴマシーンを作りました
+
+- [ゆぅさんの作品](https://mofumaru-yu.github.io/bingo/template.html)
+- [idomshiの作品](https://idomshi.github.io/bingo/)
+
 ## ハンズオン　さめがめを作ろう
 
 2022/08/20のハンズオンでさめがめ（same game）を作りました。
